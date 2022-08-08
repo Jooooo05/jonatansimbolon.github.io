@@ -1,0 +1,5 @@
+Joo Resolusi
+- saya harus bisa memakai git & github (banyak membuat web)
+- saya ingin lanjut belajar javascript (boleh javascript lanjutan, jquery atau json)
+- belajar frontend : reactjs,vuejs,angular(target react)
+baru lanjut bahasa pemograman lain misal php atau yang lain kalo udah kepikiran
